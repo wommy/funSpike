@@ -1,0 +1,17 @@
+{
+  "name": "funSpike",
+  "version": "1.0.0",
+  "description": "spike, ssg, functional",
+  "main": "index.js",
+  "author": "w0mmy",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
